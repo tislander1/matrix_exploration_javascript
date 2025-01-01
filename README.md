@@ -9,3 +9,5 @@ Then you can make it available in the browser with browserify.
 
 Note, all functions & variables (such as #initData) in matrix.js which previously 
 had a # had the symbol replaced by __ to fix a crash when using browserify.
+
+Open the browser debugging console to see the output at this time.
